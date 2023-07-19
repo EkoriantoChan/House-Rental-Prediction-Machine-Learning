@@ -13,3 +13,5 @@
 ![Area type vs Rent](https://github.com/EkoriantoChan/House-Rental-Prediction-Machine-Learning/assets/66397767/5ad3a763-0220-4f4a-b4b7-7135ea55528c)
 ![Area Locality](https://github.com/EkoriantoChan/House-Rental-Prediction-Machine-Learning/assets/66397767/76261a5e-60d6-49de-94c9-4b577b89c590)
 ![Grid Search](https://github.com/EkoriantoChan/House-Rental-Prediction-Machine-Learning/assets/66397767/83eb7f04-3a07-4eb9-9514-54f2ebd9d1a6)
+![MSE](https://github.com/EkoriantoChan/House-Rental-Prediction-Machine-Learning/assets/66397767/954ec166-3905-4747-bd15-275377f387e9)
+![Tabel prediksi](https://github.com/EkoriantoChan/House-Rental-Prediction-Machine-Learning/assets/66397767/9e285f7c-6a31-4400-b048-fb5a105d646b)
